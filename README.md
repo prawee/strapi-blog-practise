@@ -12,7 +12,7 @@ Ventura 13.0.1
 ```bash
 # support version 14 and 16
 node -v
-# v16.17.1 - not working
+# v16.18.1
 ```
 
 ## How to create project
