@@ -2,19 +2,6 @@
 
 Practice about development Strapi 4 and plugins
 
-## Required
-
-### MacOS M1
-```bash
-Ventura 13.0.1
-```
-### NodeJS
-```bash
-# support version 14 and 16
-node -v
-# v16.18.1
-```
-
 ## How to create project
 
 ```bash
