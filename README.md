@@ -37,3 +37,14 @@ then go to `http://localhost:1337/admin` and create original credential data
     4.2 /api        Rest API    # must be install plugin
     4.3 /graphql    GraphQL API # must be install plugin
 ```
+
+## Using with TS
+
+### Bootstrap a Strapi project with TS
+```bash
+yarn create strapi-app app --quickstart --typescript
+# npx create-strapi-app@latest app --quickstart --typescript
+```
+*** `--typescript or --ts`
+
+### Convert an existing project to TS
