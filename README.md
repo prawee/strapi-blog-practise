@@ -19,6 +19,7 @@ node -v
 
 ```bash
 yarn create strapi-app app --quickstart
+# npx create-strapi-app@latest app --quickstart
 cd app
 yarn develop
 ```
