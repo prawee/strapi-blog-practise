@@ -2,16 +2,6 @@
 
 Practice about development Strapi 4 and plugins
 
-## How to create project
-
-```bash
-yarn create strapi-app app --quickstart
-# npx create-strapi-app@latest app --quickstart
-cd app
-yarn develop
-```
-
-then go to `http://localhost:1337/admin` and create original credential data
 
 ## Flow script create
 
